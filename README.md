@@ -1,3 +1,3 @@
 # Assignment-2---Vector-Institute
 
-Homework Assignment 2
+Please refer to: "Assignment 2 - Decision Trees.pdf" file in the above directory
